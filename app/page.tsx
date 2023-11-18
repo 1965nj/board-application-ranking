@@ -1,3 +1,5 @@
 export default function Home() {
-  return <div></div>;
+//throw new Error("Something went wrong")
+
+  return <div>Home.tsx</div>;
 }
